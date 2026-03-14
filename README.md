@@ -18,6 +18,12 @@
 </p>
 
 ---
+## 🚀 Open Source Contributions
+
+### Engineering in Kannada
+- Fixed navigation issue
+- Merged Pull Request: [![PR](https://img.shields.io/badge/PR-Merged-brightgreen)](https://github.com/chandansgowda/engineering-in-kannada/pull/19)
+---
 
 ## 📫 Contact Me
 
