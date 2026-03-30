@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Veeresh B C </h1>
+<h1 align="center">
+  Hi 👋, I'm Veeresh
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=50">
+</p>
 <h3 align="center">Passionate Full Stack Developer </h3>
 
 ---
