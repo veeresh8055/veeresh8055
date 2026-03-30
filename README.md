@@ -9,15 +9,16 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100"/>
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100"/>
+
+</div>
+
 ## 🚀 Open Source Contributions
 
 ### Engineering in Kannada
@@ -81,15 +82,7 @@
 </div>
 
 ---
-## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100"/>
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100"/>
-<img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100"/>
-
-</div>
 
 ## 📊 GitHub Statistics
 
