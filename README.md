@@ -81,12 +81,19 @@
 </div>
 
 ---
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100"/>
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100"/>
+
+</div>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veeresh8055&theme=radical&hide_border=true" height="170"/>
