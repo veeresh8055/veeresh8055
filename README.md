@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c4/a4/81/c4a48149478f666a72f2e74502a2f060.jpg" alt="veeresh8055" />
+  <img src="https://i.pinimg.com/736x/c4/a4/81/c4a48149478f666a72f2e74502a2f060.jpg" height="400" alt="veeresh8055" />
 </p>
 
 ---
